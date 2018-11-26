@@ -9,3 +9,5 @@ Technologies used - python3.6 , sklearn.
 
 This is also a web app and can work on your phone by pressing "Add To home screen"
 
+Collaborator - https://github.com/rockangator 
+
