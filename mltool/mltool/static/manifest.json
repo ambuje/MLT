@@ -1,0 +1,50 @@
+{
+  "name": "Machine Learning Tool PWA",
+  "short_name": "MLT PWA",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "http://192.168.43.197:8000/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#808080",
+  "theme_color": "#696969",
+  "description": "A simple MLT PWA.",
+  "dir": "ltr",
+  "lang": "en-US"
+}
