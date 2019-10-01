@@ -7,6 +7,14 @@ Machine Learning Tool(MLT) is a simple but not so simple, basic but not so basic
 Backend has been done on python library Djano.
 Technologies used - python3.6 , sklearn.
 
+### Home Screenshot
+![](Capture.PNG)
+
+### Django Directories
+
+![](Django%20directories.PNG)
+
+
 This is also a web app and can work on your phone by pressing "Add To home screen"
 
 Collaborator - https://github.com/rockangator 
